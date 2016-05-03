@@ -1,0 +1,219 @@
+html, body {
+	height: 100%;
+	font-family: 'Helvetica';
+}
+
+body {
+	position: relative;
+}
+
+h1 {
+	font-family: 'Helvetica';
+}
+
+.btn-primary,
+.nav > li > a.btn-primary {
+	background-color: #FFF;
+	text-transform: uppercase;
+	color: #FFF !important;
+	border: 1px solid #000;
+	padding: 6px 30px;
+	margin-left: 30px;
+	outline: none;
+}
+
+
+}
+
+.btn-primary:hover,
+.nav > li > a.btn-primary:hover {
+	background-color: #FF00FF;
+	border: 1px solid #FF00FF;
+	text-decoration: none;
+}
+
+.btn-primary:active,
+.nav > li > a.btn-primary:active {
+	background-color: #FF00FF;
+}
+
+section.bg-home {
+	height: 100%;
+	position: relative;
+}
+
+section.bg-home footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+}
+
+section.bg-home footer .scroll {
+	margin-bottom: 20px;
+}
+
+section.bg-home footer .scroll > a > span {
+	color: #fff;
+	font-size: 18pt;
+}
+
+section.bg-home .nav-story {
+	height: 80px;
+	margin-top: 50px;
+}
+
+section.bg-home .navbar-brand {
+	padding-left: 0;
+}
+
+section.bg-home .nav-height {
+	height: 100%;
+}
+
+section.bg-home .nav-collaps {
+	padding-top: 20px;
+}
+
+.img-logo {
+	width: 50px;
+}
+
+section.bg-home .item-list:hover {
+	background-color: transparent !important;
+}
+
+section.bg-home .nav li:last-child {
+	padding: 9px 0;
+}
+
+section.bg-home .nav a {
+	color: white;
+}
+
+section.bg-home .nav a.btn-primary {
+	padding: 5px 30px;
+}
+
+section.bg-home .nav > li > a:hover {
+	text-decoration: none;
+}
+
+section.bg-home h1 {
+	font-size: 64px;
+	margin-top: 150px;
+	font-weight: 100;
+	color: white;
+}
+
+h1 strong {
+	color: #9D02D0;
+}
+
+section#loreal-makeup-genius {
+	background-color: #9D02D0;
+}
+
+section.content-section h1 {
+	text-transform: uppercase;
+    color: #000;
+    line-height: 55pt;
+    font-size: 40pt;
+    font-weight: 700;
+    margin: 0;
+}
+
+section.content-section > .container > .row {
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+section.content-section p {
+	margin-top: 12px;
+    font-size: 9pt;
+    font-weight: 700;
+    letter-spacing: -0.4pt;
+}
+
+p strong {
+	font-weight: 800;
+}
+
+section#celebs-who-already-try-it h2 {
+	font-size: 15pt;
+	font-weight: 700;
+	margin-bottom: 20px;
+}
+
+section#celebs-who-already-try-it.nav-tabs a {
+	color: #9D02D0;
+}
+
+section#celebs-who-already-try-it.nav-tabs.nav > li > a {
+	padding: 3px 10px;
+	border-radius: 0;
+}
+
+.profile img {
+	margin-right: 10px;
+	width: 40px;
+	height: 40px;
+	border: 2px solid #999;
+}
+
+.name {
+	font-size: 9pt;
+	font-weight: 700;
+}
+
+section#contact,
+body > footer {
+	background-color: #000;
+}
+
+section#contact {
+	padding-top: 40px;
+}
+
+section#contact h1 {
+	color: #fff;
+}
+
+.container .container {
+	width: 100%;
+}
+
+section #contact form .form-control {
+	background-color: #666;
+    border: 0px;
+    padding: 20px 25px;
+    font-size: 8.5pt;
+    font-weight: 600;
+    color: #aaa;
+}
+
+form textarea.form-control {
+	height: 95px;
+}
+
+form button.btn.btn-primary {
+	padding: 12px 60px;
+    font-weight: 700;
+    font-size: 13pt;
+    background-color: #9D02D0;
+}
+
+footer {
+	padding: 100px 100px 40px 100px;
+	color: #aaa;
+	font-weight: 100;
+	font-size: 14pt;
+}
+
+footer .loreal-logo {
+	margin-left: 10px;
+}
+
+footer .love {
+	font-size: 8pt;
+	margin-top: 20px;
+}
